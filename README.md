@@ -1,12 +1,10 @@
 # Milo Differential Abundance Analysis — CRC Single-Cell Data
 
 Milo-based differential abundance (DA) analysis applied to colorectal cancer (CRC)
-single-cell RNA-seq data, comparing MSI (microsatellite instable) vs MSS
+single-cell RNA-seq data, comparing MSI (microsatellite instability) vs MSS
 (microsatellite stable) tumour microenvironments.
 
-This script was developed as part of an ARPA-H-funded CRC atlas project.
-It covers the DA analysis step; upstream outputs (cell type annotation,
-consensus clustering) were produced by the broader team.
+This repository contains my MILO-based differential abundance analysis module from a broader ARPA-H-related CRC single-cell analysis project.
 
 ---
 
