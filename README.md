@@ -57,21 +57,9 @@ python MILO.py \
 | `--pval_thr` | `0.05` | p-value threshold |
 | `--seed` | `42` | Random seed |
 
----
-
-## Project structure
-
-```
-milo-crc-da/
-├── MILO.py          # DA analysis pipeline
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
 
 ---
 
 ## Note on data
 
-Input data files (`.h5ad`, `.csv`) are not included in this repository as they
-are part of a larger internal project dataset and are too large for GitHub.
+Input data files are not included in this repository due to file size and project-specific preprocessing dependencies.
